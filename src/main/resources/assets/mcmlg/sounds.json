@@ -1,0 +1,31 @@
+{
+  "mcmlg.airhorn": {
+    "category": "ambient",
+    "sounds": [
+      "mcmlg:airhorn"
+    ]
+  },
+  "mcmlg.hit": {
+    "category": "master",
+    "sounds": [
+      "mcmlg:hitmarker"
+    ]
+  },
+  "mcmlg.triple": {
+    "category": "ambient",
+    "sounds": [
+      "mcmlg:triple"
+    ]
+  },
+  "mcmlg.combo": {
+    "category": "ambient",
+    "sounds": [
+      "mcmlg:combo/combo1",
+      "mcmlg:combo/combo2",
+      "mcmlg:combo/combo3",
+      "mcmlg:combo/combo4",
+      "mcmlg:combo/combo5",
+      "mcmlg:combo/combo6"
+    ]
+  }
+}
